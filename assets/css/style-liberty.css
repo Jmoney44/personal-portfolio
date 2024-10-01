@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
+Author: Johnson Ogu
+Author URL: http://joshtech.com
 --*/
 
 
@@ -11708,7 +11708,7 @@ fieldset:disabled .btn {
 
 
 :root {
-  --primary-color: #007e6a;
+  --primary-color: #3f07d9;
   --secondary-color: #00c16e;
   --font-color: #707070;
   --bg-color: #fff;
@@ -11727,7 +11727,7 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-  --primary-color: #007e6a;
+  --primary-color: #3f07d9;
   --secondary-color: #02983f;
   --font-color: #b7b7b7;
   --bg-color: #01181d;
@@ -18848,7 +18848,7 @@ header.nav-fixed .cd-header-buttons {
 
   a.navbar-brand:before,
   a.logo:before {
-    width: 24px;
+    width: 94px;
     top: 5px;
     left: 40px;
   }
